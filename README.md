@@ -41,7 +41,8 @@ If there are any issues with the space or you are using a client that does not s
 [![Development](https://img.shields.io/matrix/polymc-development:matrix.org?label=PolyMC%20Development)](https://matrix.to/#/#polymc-development:matrix.org)
 [![Discussion](https://img.shields.io/matrix/polymc-discussion:matrix.org?label=PolyMC%20Discussion)](https://matrix.to/#/#polymc-discussion:matrix.org)
 [![Github](https://img.shields.io/matrix/polymc-github:matrix.org?label=PolyMC%20Github)](https://matrix.to/#/#polymc-github:matrix.org)
-[![Maintainers](https://img.shields.io/matrix/polymc-maintainers:matrix.org?label=PolyMC%20Maintainers)](https://matrix.to/#/#polymc-maintainers:matrix.org)
+[![Maintainers](https://img.shields.io/matrix/polymc-maintainers:matrix.org?label=PolyMC%20Maintainers)](https://matrix.
+to/#/#polymc-maintainers:matrix.org)
 [![News](https://img.shields.io/matrix/polymc-news:matrix.org?label=PolyMC%20News)](https://matrix.to/#/#polymc-news:matrix.org)
 [![Offtopic](https://img.shields.io/matrix/polymc-offtopic:matrix.org?label=PolyMC%20Offtopic)](https://matrix.to/#/#polymc-offtopic:matrix.org)
 [![Support](https://img.shields.io/matrix/polymc-support:matrix.org?label=PolyMC%20Support)](https://matrix.to/#/#polymc-support:matrix.org)
@@ -61,11 +62,11 @@ If you want to build PolyMC yourself, check [Build Instructions](https://polymc.
 
 ## Translations
 
-The translation effort for PolyMC is hosted on [Weblate](https://hosted.weblate.org/projects/polymc/polymc/) and information about translating PolyMC is available at <https://github.com/PolyMC/Translations>
+~~The translation effort for PolyMC is hosted on [Weblate](https://hosted.weblate.org/projects/polymc/polymc/) and information about translating PolyMC is available at <https://github.com/PolyMC/Translations>~~ Please do not contribute to or use PolyMC until it has been reclaimed
 
 ## Download information
 
-To modify download information or change packaging information send a pull request or issue to the website [here](https://github.com/PolyMC/polymc.github.io/tree/master/src/download).
+~~To modify download information or change packaging information send a pull request or issue to the website [here](https://github.com/PolyMC/polymc.github.io/tree/master/src/download).~~ See above.
 
 ## Forking/Redistributing/Custom builds policy
 
