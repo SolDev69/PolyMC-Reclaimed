@@ -3,6 +3,8 @@
 <img src="./program_info/polymc-header.svg#gh-dark-mode-only" alt="PolyMC logo" width="50%"/>
 </p>
 
+PolyMC: Reclaimed is a custom fork of PolyMC made as a safe haven against the homophobic shitassery that has occureed with PolyMC.
+
 PolyMC is a custom launcher for Minecraft that focuses on predictability, long term stability and simplicity.
 
 This is a **fork** of the MultiMC Launcher and not endorsed by MultiMC.
@@ -12,7 +14,7 @@ If you want to read about why this fork was created, check out [our FAQ page](ht
 # Installation
 
 - All downloads and instructions for PolyMC can be found [here](https://polymc.org/download/)
-- Last build status: <https://github.com/PolyMC/PolyMC/actions>
+- Last build status: <https://github.com/SolDev69/PolyMC-Reclaimed>
 
 ## Development Builds
 
